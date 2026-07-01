@@ -14,10 +14,12 @@ Hey 👋 I'm **Hemanth Kumar Katariya**, currently a 4th-year Computer Science E
 
 ---
 
+---
+
 # 📊 GitHub Stats:
 
 <p align="left">
-  <a href="#-popular-repositories">
+  <a href="https://github.com/Hemanth-katariya">
     <img src="https://github-readme-stats.vercel.app/api?username=Hemanth-katariya&show_icons=true&theme=tokyonight&ranking_channels=true" alt="Hemanth's GitHub Stats" />
   </a>
 </p>
